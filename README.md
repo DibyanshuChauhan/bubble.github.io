@@ -29,9 +29,8 @@ Follow these steps to enjoy the **Bubble Game** on your local system:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/DibyanshuChauhan/bubble.github.io/tree/main
    ```
-   Replace `<repository-url>` with the actual URL of the game's repository.
 
 2. **Navigate to the Project Directory**
    ```bash
